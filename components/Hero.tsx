@@ -98,7 +98,7 @@ const Hero: React.FC = () => {
                      
                      {/* Map Image (Dignitas Article / Jungle Map) */}
                      <img 
-                        src="Public/img/tiagopathing.webp" 
+                        src="/assets/tiagopathing.webp" 
                         alt="Jungle Routes Map"
                         className="w-full h-full object-cover opacity-80 scale-105 group-hover:scale-100 transition-transform duration-[2s] ease-out"
                      />
