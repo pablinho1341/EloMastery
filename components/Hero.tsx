@@ -22,7 +22,7 @@ const Hero: React.FC = () => {
         
         {/* High Quality GIF Loop */}
         <img 
-            src="Publi/img/lee sin pathing.jpg" 
+            src="" 
             alt="God Fist Lee Sin Background Animation"
             className="w-full h-full object-cover opacity-60 scale-105"
         />
