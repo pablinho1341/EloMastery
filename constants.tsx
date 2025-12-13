@@ -22,7 +22,7 @@ export const TESTIMONIALS: Testimonial[] = [
     rankStart: "GOLD IV",
     rankEnd: "Grandmaster",
     quote: "BRONZE IV to Grandmaster in 10 months just unreal bro",
-    avatar: "/img/taigo.jpg",
+    avatar: "Public/img/taigo.jpg",
     lpGain: [0, 200, 450, 600, 750, 920]
   },
   {
@@ -31,7 +31,7 @@ export const TESTIMONIALS: Testimonial[] = [
     rankStart: "Gold III",
     rankEnd: "Challenger",
     quote: "NONAME the GOAT the coaching is direct and useful",
-    avatar: "/img/dexter.jpg",
+    avatar: "Public/img/dexter.jpg",
     lpGain: [0, 100, 150, 300, 450, 600]
   }
 ];
